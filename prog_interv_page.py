@@ -40,7 +40,7 @@ def show_prog_interv_page():
 
 
     # Sidebar para los controles
-    st.sidebar.title("Controles de progresión")
+    st.sidebar.text("Controles de progresión")
 
     tonalidad = st.sidebar.selectbox("Tonalidad", list(acordes.keys()), index=0)
     num_notas = st.sidebar.slider("Cantidad de notas en la célula", 1, 4, 2)
