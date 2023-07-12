@@ -1,0 +1,14 @@
+﻿Tono,Primaria,Secundaria,Tónica,Cadencia,Cadencia cond,Enlaces,Evitar
+C,Bb,E,"C(7), (sus4)","Gm(7), Bb(maj7)",NA,"Dm(7), F(maj7), Am(7)",Edim/m7b5
+Db,B,F,"Db(7), (sus4)","Abm(7), B(maj7)",NA,"Ebm(7), Gb(maj7), Bbm(7)",Fdim/m7b5
+D ,C,Gb,"D (7), (sus4)","Am(7), C(maj7)",NA,"Em(7), G(maj7), Bm(7)",Gbdim/m7b5
+Eb,Db,G,"Eb(7), (sus4)","Bbm(7), Db(maj7)",NA,"Fm(7), Ab(maj7), Cm(7)",Gdim/m7b5
+E,D ,Ab,"E(7), (sus4)","Bm(7), D(maj7)",NA,"Gbm(7), A(maj7), Dbm(7)",Abdim/m7b5
+F,Eb,A,"F(7), (sus4)","Cm(7), Eb(maj7)",NA,"Gm(7), Bb(maj7), Dm(7)",Adim/m7b5
+Gb,E,Bb,"Gb(7), (sus4)","Dbm(7), E(maj7)",NA,"Abm(7), B(maj7), Ebm(7)",Bbdim/m7b5
+G,F,B,"G(7), (sus4)","Dm(7), F(maj7)",NA,"Am(7), C(maj7), Em(7)",Bdim/m7b5
+Ab,Gb,C,"Ab(7), (sus4)","Ebm(7), Gb(maj7)",NA,"Bbm(7), Db(maj7), Fm(7)",Cdim/m7b5
+A,G,Db,"A(7), (sus4)","Em(7), G(maj7)",NA,"Bm(7), D(maj7), Gbm(7)",Dbdim/m7b5
+Bb,Ab,D ,"Bb(7), (sus4)","Fm(7), Ab(maj7)",NA,"Cm(7), Eb(maj7), Gm(7)",Ddim/m7b5
+B,A,Eb,"B(7), (sus4)","Gbm(7), A(maj7)",NA,"Dbm(7), E(maj7), Abm(7)",Ebdim/m7b5
+C,Bb,E,"C(7), (sus4)","Gm(7), Bb(maj7)",NA,"Dm(7), F(maj7), Am(7)",Edim/m7b5
